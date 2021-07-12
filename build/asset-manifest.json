@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amppli-aval/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/amppli-aval/static/js/main.fafd342e.chunk.js",
+    "main.js.map": "/amppli-aval/static/js/main.fafd342e.chunk.js.map",
+    "runtime-main.js": "/amppli-aval/static/js/runtime-main.410694e4.js",
+    "runtime-main.js.map": "/amppli-aval/static/js/runtime-main.410694e4.js.map",
+    "static/js/2.2637ef5f.chunk.js": "/amppli-aval/static/js/2.2637ef5f.chunk.js",
+    "static/js/2.2637ef5f.chunk.js.map": "/amppli-aval/static/js/2.2637ef5f.chunk.js.map",
+    "static/js/3.b30ac1e0.chunk.js": "/amppli-aval/static/js/3.b30ac1e0.chunk.js",
+    "static/js/3.b30ac1e0.chunk.js.map": "/amppli-aval/static/js/3.b30ac1e0.chunk.js.map",
+    "index.html": "/amppli-aval/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/amppli-aval/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2637ef5f.chunk.js.LICENSE.txt": "/amppli-aval/static/js/2.2637ef5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.410694e4.js",
+    "static/js/2.2637ef5f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fafd342e.chunk.js"
+  ]
+}
